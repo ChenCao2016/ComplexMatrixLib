@@ -1,14 +1,14 @@
 # ComplexMatrixLib
 C++ based complex matrix operation libary
 
-version 0.0.0
-Chen Cao
+/nversion 0.0.0
+/nChen Cao
 
-Including basic complex number matrix operation:
+/nIncluding basic complex number matrix operation:
 
-Givens Roation
-QR decompostion
-Eigenvalue and Eigenvector decompostion
-Singluar value decompostion
-Moore–Penrose inverse
+/nGivens Roation
+/nQR decompostion
+/nEigenvalue and Eigenvector decompostion
+/nSingluar value decompostion
+/nMoore–Penrose inverse
 
