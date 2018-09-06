@@ -1,7 +1,7 @@
 # ComplexMatrixLib
 C++ based complex matrix operation libary
 
-#version 0.0.0
+#Version: 0.0.0
 
 #Author: Chen Cao
 
