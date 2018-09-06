@@ -1,11 +1,11 @@
 # ComplexMatrixLib
 C++ based complex matrix operation libary
 
-#Version: 0.0.0
+## Version: 0.0.0
 
-#Author: Chen Cao
+## Author: Chen Cao
 
-#What's included:
+## What's included:
 
 Givens Roation
 
